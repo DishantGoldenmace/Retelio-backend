@@ -22,7 +22,9 @@
     "mongoose": "^8.17.1",
     "multer": "^2.0.2",
     "nodemailer": "^7.0.6",
-    "uuid": "^8.3.2"
+    "uuid": "^8.3.2",
+    "@types/node": "^20.19.17",
+    "typescript": "^5.9.2"
   },
   "devDependencies": {
     "@types/bcrypt": "^6.0.0",
@@ -34,12 +36,10 @@
     "@types/moment": "^2.11.29",
     "@types/mongoose": "^5.11.96",
     "@types/multer": "^2.0.0",
-    "@types/node": "^20.19.17",
     "@types/nodemailer": "^7.0.1",
     "@types/twilio": "^3.19.2",
     "@types/uuid": "^10.0.0",
     "nodemon": "^3.1.10",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.9.2"
+    "ts-node": "^10.9.2"
   }
 }
